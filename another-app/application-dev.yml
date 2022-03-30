@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: another-app
+  profiles:
+    active: dev
+
+property:
+  key: secret
