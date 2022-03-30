@@ -3,3 +3,6 @@ spring:
     name: config-repo
   profiles:
     active: dev,mysql
+  datasource:
+    username: dbuser
+    password: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
