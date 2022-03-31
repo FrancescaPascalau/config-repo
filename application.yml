@@ -5,4 +5,4 @@ spring:
     active: dev,mysql
   datasource:
     username: dbuser
-    password: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
+    password: '{cipher}3970eda6f2032d5962c176dce6d5cf7ce03f60c6931fd9ef02c0bf0a823b4496'
